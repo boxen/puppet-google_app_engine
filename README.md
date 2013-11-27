@@ -5,6 +5,7 @@
 
 ```puppet
 include google_app_engine::python
+include google_app_engine::go
 
 ```
 
